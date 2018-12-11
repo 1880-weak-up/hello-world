@@ -1,3 +1,3 @@
 # hello-world
 Just another repository.
-This is my first repository.I like Code.
+This is my first repository.I like Coding.
